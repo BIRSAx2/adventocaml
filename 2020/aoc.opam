@@ -5,6 +5,7 @@ depends: [
   "cohttp-lwt-unix"
   "lwt_ssl"
   "ppx_expect"
+  "re2"
   "odoc" {with-doc}
 ]
 build: [
